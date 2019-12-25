@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03f6e61a-0d59-43c4-b1c5-4d082eb9d0e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1VSXiaLQCcHYt3QrSU1lCNsDNPu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03f6e61a-0d59-43c4-b1c5-4d082eb9d0e0" name="Default Changelist" comment="" />
+      <created>1577247598085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577247598085</updated>
+      <workItem from="1577247599402" duration="2926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1577256710182">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577256412509" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835/-320.-1080.1920.1080@0.23.1440.835" timestamp="1577256710182" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1577256710180">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577256412508" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.835/-320.-1080.1920.1080@0.23.1440.835" timestamp="1577256710180" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1577256710178">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577256412507" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.835/-320.-1080.1920.1080@0.23.1440.835" timestamp="1577256710178" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1577256710181">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577256412508" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.835/-320.-1080.1920.1080@0.23.1440.835" timestamp="1577256710181" />
+    <state x="100" y="123" width="1240" height="635" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577257104193">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="100" y="123" width="1240" height="635" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577257104193" />
+    <state x="375" y="204" width="689" height="472" key="find.popup" timestamp="1577248033520">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="375" y="204" width="689" height="472" key="find.popup/0.23.1440.835/-320.-1057.1920.1057@0.23.1440.835" timestamp="1577248033520" />
+  </component>
+</project>
